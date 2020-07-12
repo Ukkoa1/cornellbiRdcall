@@ -16,6 +16,6 @@ https://www.kaggle.com/rohanrao/xeno-canto-bird-recordings-extended-a-m
 ### Important functions
 
 ```{r}
-seewave::afilter
+seewave::afilter ## use to remove silent sections from training data?
 
 ```
