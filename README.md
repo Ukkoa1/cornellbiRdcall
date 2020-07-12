@@ -12,3 +12,10 @@ https://www.kaggle.com/rohanrao/xeno-canto-bird-recordings-extended-a-m
 
 `seewave`
 `tidyverse`
+
+### Important functions
+
+```{r}
+seewave::afilter
+
+```
